@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a837aca-a2e4-4278-820c-fa8cbf093624" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nam/customer/Customer.java" afterPath="$PROJECT_DIR$/src/nam/customer/Customer.java" />
     </list>
     <ignored path="PLProject1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +34,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nam/customer/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerDB.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nam/customer/CustomerDB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.06781915">
               <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
@@ -70,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/nam/customer/CustomerApp.java" />
         <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/src/nam/customer/Customer.java" />
+        <option value="$PROJECT_DIR$/src/nam/customer/CustomerDB.java" />
       </list>
     </option>
   </component>
@@ -788,12 +799,12 @@
       <workItem from="1454022895331" duration="347000" />
       <workItem from="1454024311959" duration="1533000" />
       <workItem from="1454454759304" duration="9000" />
-      <workItem from="1454627361714" duration="129000" />
+      <workItem from="1454627361714" duration="215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2018000" />
+    <option name="totallyTimeSpent" value="2104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="30" width="1612" height="912" extended-state="0" />
@@ -910,6 +921,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nam/customer/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nam/customer/CustomerDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06781915">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
