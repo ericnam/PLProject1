@@ -14,6 +14,8 @@ public class CustomerApp {
 
         int customer_number = reader.nextInt(); //save cust number into variable
         System.out.println(); //newline
+
+
     }
 
 }
