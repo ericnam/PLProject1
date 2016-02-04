@@ -3,8 +3,12 @@ package nam.customer;
 public class CustomerApp {
 
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+        // Prints "Welcome to the Customer Viewer" onto terminal
+        System.out.println("Welcome to the Customer Viewer");
+        System.out.println();
+
+        // Prompt for user input
+        System.out.println("Enter a customer number: ");
     }
 
 }
