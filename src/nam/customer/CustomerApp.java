@@ -1,4 +1,5 @@
 package nam.customer;
+import java.util.Scanner;
 
 public class CustomerApp {
 
@@ -8,7 +9,11 @@ public class CustomerApp {
         System.out.println();
 
         // Prompt for user input
-        System.out.println("Enter a customer number: ");
+        Scanner reader = new Scanner(System.in);
+        System.out.print("Enter a customer number: ");
+
+        int customer_number = reader.nextInt(); //save cust number into variable
+        System.out.println(); //newline
     }
 
 }
