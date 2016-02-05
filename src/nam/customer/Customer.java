@@ -2,8 +2,13 @@ package nam.customer;
 
 public class Customer {
 
+    int customer_number;
+
+    public Customer(int n) {
+        customer_number = n;
+    }
+
     // Initialize all variables
-    private int customer_number;
     private String name;
     private String address;
     private String city;
@@ -29,6 +34,10 @@ public class Customer {
 
     public int getPostal() {
         return postal;
+    }
+
+    public int getCustomerNumber() {
+        return customer_number;
     }
 
     //All set functions
